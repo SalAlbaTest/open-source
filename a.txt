@@ -2,3 +2,4 @@ file a just to test rebase with no conflicts
 saljan 1
 sal.alba.conf 2
 saljan 3
+saljan 4
