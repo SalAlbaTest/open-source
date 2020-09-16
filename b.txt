@@ -3,3 +3,7 @@ file b.txt just for test
 2 commit
 3 commit
 4 commit
+
+# Start test git reset
+
+1 commit
