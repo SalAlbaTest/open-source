@@ -7,3 +7,4 @@ file b.txt just for test
 # Start test git reset
 
 1 commit
+2 commit
