@@ -8,3 +8,4 @@ file b.txt just for test
 
 1 commit
 2 commit
+3 commit | after git reset --hard 5d8908c44fe18e56cd0a3f0763a95f3695e23af0
